@@ -1,1 +1,3 @@
 # log-launcher-privacy
+
+I only store one thing locally on your device: How often an app was opened. This is required to show the most used app in green. Otherwise, I do not store anything...
