@@ -1,3 +1,6 @@
-# log-launcher-privacy
+# LogLauncher
 
-I only store one thing locally on your device: How often an app was opened. This is required to show the most used app in green. Otherwise, I do not store anything...
+The following things are stored locally:
+ - Your settings
+ - How often an app was opened in order to color those green
+ - Renamings
