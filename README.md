@@ -1,4 +1,4 @@
-# LogLauncher
+# LogLauncher Privacy Policy
 
 The following things are stored locally:
  - Your settings
