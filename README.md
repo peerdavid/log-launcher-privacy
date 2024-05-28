@@ -1,4 +1,4 @@
-# Privacy-Policy of LogLauncher 
+# Privacy Policy
 
 ## Personal and sensitive user data
 The following things are stored locally only:
