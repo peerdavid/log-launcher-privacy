@@ -1,7 +1,7 @@
 # Privacy-Policy of LogLauncher 
 
-## What and where are things stored?
-The following things are stored locally:
+## Personal and sensitive user data
+The following things are stored locally only:
  - Your settings
  - How often an app was opened in order to color those green
  - Renamings
